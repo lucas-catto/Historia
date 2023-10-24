@@ -53,7 +53,6 @@ main {
     min-width:        298px;
     max-width:        45%;
     height:           auto;
-    border:           1px solid black;
 }
 
 h2 { font-size: 32px; }
